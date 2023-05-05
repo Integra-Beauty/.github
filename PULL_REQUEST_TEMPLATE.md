@@ -1,0 +1,6 @@
+- [ ] Is the code formatted and linted?
+- [ ] Defensive and safe approach?
+- [ ] Is the code approachable and friendly?
+- [ ] Are there any Code smells? 
+- [ ] Does it follow conventions and guidelines?
+- [ ] Is the code simple? Fancy/Over-engineered is the enemy.
