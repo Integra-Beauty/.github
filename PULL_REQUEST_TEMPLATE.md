@@ -1,6 +1,6 @@
-- [ ] Is the code formatted and linted?
-- [ ] Defensive and safe approach?
-- [ ] Is the code approachable and friendly?
-- [ ] Are there any Code smells? 
-- [ ] Does it follow conventions and guidelines?
-- [ ] Is the code simple? Fancy/Over-engineered is the enemy.
+- [ ] The code is formatted and linted
+- [ ] The code follows our conventions
+- [ ] The code is sufficiently documented
+- [ ] The code makes no unsafe assumptions
+- [ ] The code is accessible to juniors and simple to read
+- [ ] There are no obvious code smells
